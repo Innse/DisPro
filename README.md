@@ -38,7 +38,7 @@ The integration of multimodal data including pathology images and gene profiles 
 
 ### Gene
 1. The pathways signature is provided in the `datasets` folder.
-2. The RNA-Seq expression data are provided on [Onedrive](https://hkustconnect-my.sharepoint.com/:f:/g/personal/yxueb_connect_ust_hk/IgDQ70RiRvSqSocoxLEhj7fcAa4vFhUcTsIwt2zoFTf8hfs?e=uXyr6O). You can unzip them and put it somewhere you like, which should be set as `data_root_omics`.
+2. The RNA-Seq expression data are provided on [GoogleDrive](https://drive.google.com/drive/folders/18cxpThdOMgX_BWvsn5i-DTYdTkECcHsx?usp=sharing). You can unzip them and put it somewhere you like, which should be set as `data_root_omics`.
 
 ### CSV
 - The data file for complete modaltiy is provided in `splits/[STUDY]_Splits.csv`.
